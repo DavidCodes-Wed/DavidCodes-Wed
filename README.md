@@ -1,4 +1,7 @@
+  <img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;">
 <h1 align="center">
+<br><br>
+
   <a target="_blank">
     <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/Earth.gif" width="24px" style="max-width:100%;">
   </a>
@@ -14,8 +17,9 @@
   <img align="right" height="250" width="400" alt="GIF" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/code.gif">
 </a>
 <!--- About me-->
-## 🚀 About Me  
 
+
+ ### 🚀 About Me  
 👋 Hi, I'm **Neeraj Hariyale**, an enthusiastic **Information Technology** student at **Oriental College of Technology, Bhopal**. Passionate about **software development, web technologies.**, I love building projects that solve real-world problems.  
 
 ### 💡 What I Do  
@@ -25,6 +29,7 @@
 ### 🚀 Looking For  
 - 💼 Exciting **development opportunities & tech collaborations**  
 - 📖 Learning **new technologies** and staying updated with industry trends  
+ 
 
 <br><br>
 <!-- Socials --> 
